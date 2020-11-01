@@ -1,15 +1,9 @@
-### これはWeb上で変更した。第2回目だ
+テスト
+Once they register a roaming authenticator, users can now secure their bootstrap sign-ins by using this authenticator as a 2nd-factor during sign-in.[12]
 
-### Web上でのUpdate　第3回目だ
+[12] We do not recommend that relying parties require a second factor during reauthentication. Instead, you should see whether the user's platform features a user-verifying FIDO platform authenticator, and employ it, making reauthentication more user-friendly without sacrificing security.
 
-### おじさんこんにちは、いのうえで〜〜す　＜－－はいはい
-
-
-#### 画面共有しながら書いた
+[Shane] 
+I find that the current text self-explains why the recommendation is made. When a user-verifying platform authenticator is employed for reauthentication, the user experience is user-friendly without sacrificing security. If you have a suggested re-word, could you please submit a PR. If after re-reading the above explanation you think that a re-word is not necessary, perhaps close the issue?
 
 
-一度出したPRを、さらに編集する実験
-
-おお！　できたかも？　＜－－－できたぜ
-
-3回目の編集だ
