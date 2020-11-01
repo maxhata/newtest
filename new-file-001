@@ -1,4 +1,5 @@
-テスト
+
+テスト001
 Once they register a roaming authenticator, users can now secure their bootstrap sign-ins by using this authenticator as a 2nd-factor during sign-in.[12]
 
 [12] We do not recommend that relying parties require a second factor during reauthentication. Instead, you should see whether the user's platform features a user-verifying FIDO platform authenticator, and employ it, making reauthentication more user-friendly without sacrificing security.
